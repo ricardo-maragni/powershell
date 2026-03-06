@@ -2,4 +2,5 @@
 
 <h1>Welcome to my PowerShell repository!</h1>
 
-<p><b>Obs:</b> Usar extensão .sh para Linux e .ps1 para Windows.</p>
+<b>Obs:</b> 
+<p>Usar extensão .sh para Linux e .ps1 para Windows.</p>
